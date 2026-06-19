@@ -1,0 +1,4 @@
+print("Hello, World!")
+print("MY NAME IS ASIF AL KIBRIA.")
+print("I AM A STUDENT OF COMPUTER SCIENCE AND ENGINEERING.")
+print("MY STUDENT ID IS 23-50793-1.")
